@@ -1,0 +1,11 @@
+C:\Users\Luism\Documents\Programas Sistemas Informacion\05.pizza\obj\Debug\netcoreapp3.1\05.pizza.csprojAssemblyReference.cache
+C:\Users\Luism\Documents\Programas Sistemas Informacion\05.pizza\obj\Debug\netcoreapp3.1\05.pizza.AssemblyInfoInputs.cache
+C:\Users\Luism\Documents\Programas Sistemas Informacion\05.pizza\obj\Debug\netcoreapp3.1\05.pizza.AssemblyInfo.cs
+C:\Users\Luism\Documents\Programas Sistemas Informacion\05.pizza\bin\Debug\netcoreapp3.1\05.pizza.exe
+C:\Users\Luism\Documents\Programas Sistemas Informacion\05.pizza\bin\Debug\netcoreapp3.1\05.pizza.deps.json
+C:\Users\Luism\Documents\Programas Sistemas Informacion\05.pizza\bin\Debug\netcoreapp3.1\05.pizza.runtimeconfig.json
+C:\Users\Luism\Documents\Programas Sistemas Informacion\05.pizza\bin\Debug\netcoreapp3.1\05.pizza.runtimeconfig.dev.json
+C:\Users\Luism\Documents\Programas Sistemas Informacion\05.pizza\bin\Debug\netcoreapp3.1\05.pizza.dll
+C:\Users\Luism\Documents\Programas Sistemas Informacion\05.pizza\bin\Debug\netcoreapp3.1\05.pizza.pdb
+C:\Users\Luism\Documents\Programas Sistemas Informacion\05.pizza\obj\Debug\netcoreapp3.1\05.pizza.dll
+C:\Users\Luism\Documents\Programas Sistemas Informacion\05.pizza\obj\Debug\netcoreapp3.1\05.pizza.pdb

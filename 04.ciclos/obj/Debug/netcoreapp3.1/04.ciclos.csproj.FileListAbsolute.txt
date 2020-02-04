@@ -1,0 +1,11 @@
+C:\Users\Luism\Documents\Programas Sistemas Informacion\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.exe
+C:\Users\Luism\Documents\Programas Sistemas Informacion\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.deps.json
+C:\Users\Luism\Documents\Programas Sistemas Informacion\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.runtimeconfig.json
+C:\Users\Luism\Documents\Programas Sistemas Informacion\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.runtimeconfig.dev.json
+C:\Users\Luism\Documents\Programas Sistemas Informacion\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.dll
+C:\Users\Luism\Documents\Programas Sistemas Informacion\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.pdb
+C:\Users\Luism\Documents\Programas Sistemas Informacion\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.csprojAssemblyReference.cache
+C:\Users\Luism\Documents\Programas Sistemas Informacion\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.AssemblyInfoInputs.cache
+C:\Users\Luism\Documents\Programas Sistemas Informacion\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.AssemblyInfo.cs
+C:\Users\Luism\Documents\Programas Sistemas Informacion\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.dll
+C:\Users\Luism\Documents\Programas Sistemas Informacion\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.pdb
