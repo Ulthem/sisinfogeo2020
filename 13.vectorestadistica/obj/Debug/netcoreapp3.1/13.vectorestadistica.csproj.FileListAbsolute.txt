@@ -1,0 +1,11 @@
+C:\Users\Luism\Documents\Programas Sistemas Informacion\13.vectorestadistica\bin\Debug\netcoreapp3.1\13.vectorestadistica.exe
+C:\Users\Luism\Documents\Programas Sistemas Informacion\13.vectorestadistica\bin\Debug\netcoreapp3.1\13.vectorestadistica.deps.json
+C:\Users\Luism\Documents\Programas Sistemas Informacion\13.vectorestadistica\bin\Debug\netcoreapp3.1\13.vectorestadistica.runtimeconfig.json
+C:\Users\Luism\Documents\Programas Sistemas Informacion\13.vectorestadistica\bin\Debug\netcoreapp3.1\13.vectorestadistica.runtimeconfig.dev.json
+C:\Users\Luism\Documents\Programas Sistemas Informacion\13.vectorestadistica\bin\Debug\netcoreapp3.1\13.vectorestadistica.dll
+C:\Users\Luism\Documents\Programas Sistemas Informacion\13.vectorestadistica\bin\Debug\netcoreapp3.1\13.vectorestadistica.pdb
+C:\Users\Luism\Documents\Programas Sistemas Informacion\13.vectorestadistica\obj\Debug\netcoreapp3.1\13.vectorestadistica.csprojAssemblyReference.cache
+C:\Users\Luism\Documents\Programas Sistemas Informacion\13.vectorestadistica\obj\Debug\netcoreapp3.1\13.vectorestadistica.AssemblyInfoInputs.cache
+C:\Users\Luism\Documents\Programas Sistemas Informacion\13.vectorestadistica\obj\Debug\netcoreapp3.1\13.vectorestadistica.AssemblyInfo.cs
+C:\Users\Luism\Documents\Programas Sistemas Informacion\13.vectorestadistica\obj\Debug\netcoreapp3.1\13.vectorestadistica.dll
+C:\Users\Luism\Documents\Programas Sistemas Informacion\13.vectorestadistica\obj\Debug\netcoreapp3.1\13.vectorestadistica.pdb
