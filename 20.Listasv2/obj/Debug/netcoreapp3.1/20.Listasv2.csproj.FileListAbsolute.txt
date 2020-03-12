@@ -1,0 +1,11 @@
+C:\Users\Luism\Documents\Programas Sistemas Informacion\20.Listasv2\obj\Debug\netcoreapp3.1\20.Listasv2.csprojAssemblyReference.cache
+C:\Users\Luism\Documents\Programas Sistemas Informacion\20.Listasv2\obj\Debug\netcoreapp3.1\20.Listasv2.AssemblyInfoInputs.cache
+C:\Users\Luism\Documents\Programas Sistemas Informacion\20.Listasv2\obj\Debug\netcoreapp3.1\20.Listasv2.AssemblyInfo.cs
+C:\Users\Luism\Documents\Programas Sistemas Informacion\20.Listasv2\bin\Debug\netcoreapp3.1\20.Listasv2.exe
+C:\Users\Luism\Documents\Programas Sistemas Informacion\20.Listasv2\bin\Debug\netcoreapp3.1\20.Listasv2.deps.json
+C:\Users\Luism\Documents\Programas Sistemas Informacion\20.Listasv2\bin\Debug\netcoreapp3.1\20.Listasv2.runtimeconfig.json
+C:\Users\Luism\Documents\Programas Sistemas Informacion\20.Listasv2\bin\Debug\netcoreapp3.1\20.Listasv2.runtimeconfig.dev.json
+C:\Users\Luism\Documents\Programas Sistemas Informacion\20.Listasv2\bin\Debug\netcoreapp3.1\20.Listasv2.dll
+C:\Users\Luism\Documents\Programas Sistemas Informacion\20.Listasv2\bin\Debug\netcoreapp3.1\20.Listasv2.pdb
+C:\Users\Luism\Documents\Programas Sistemas Informacion\20.Listasv2\obj\Debug\netcoreapp3.1\20.Listasv2.dll
+C:\Users\Luism\Documents\Programas Sistemas Informacion\20.Listasv2\obj\Debug\netcoreapp3.1\20.Listasv2.pdb

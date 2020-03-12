@@ -1,0 +1,11 @@
+C:\Users\Luism\Documents\Programas Sistemas Informacion\14.cuentabancaria\bin\Debug\netcoreapp3.1\14.cuentabancaria.exe
+C:\Users\Luism\Documents\Programas Sistemas Informacion\14.cuentabancaria\bin\Debug\netcoreapp3.1\14.cuentabancaria.deps.json
+C:\Users\Luism\Documents\Programas Sistemas Informacion\14.cuentabancaria\bin\Debug\netcoreapp3.1\14.cuentabancaria.runtimeconfig.json
+C:\Users\Luism\Documents\Programas Sistemas Informacion\14.cuentabancaria\bin\Debug\netcoreapp3.1\14.cuentabancaria.runtimeconfig.dev.json
+C:\Users\Luism\Documents\Programas Sistemas Informacion\14.cuentabancaria\bin\Debug\netcoreapp3.1\14.cuentabancaria.dll
+C:\Users\Luism\Documents\Programas Sistemas Informacion\14.cuentabancaria\bin\Debug\netcoreapp3.1\14.cuentabancaria.pdb
+C:\Users\Luism\Documents\Programas Sistemas Informacion\14.cuentabancaria\obj\Debug\netcoreapp3.1\14.cuentabancaria.csprojAssemblyReference.cache
+C:\Users\Luism\Documents\Programas Sistemas Informacion\14.cuentabancaria\obj\Debug\netcoreapp3.1\14.cuentabancaria.AssemblyInfoInputs.cache
+C:\Users\Luism\Documents\Programas Sistemas Informacion\14.cuentabancaria\obj\Debug\netcoreapp3.1\14.cuentabancaria.AssemblyInfo.cs
+C:\Users\Luism\Documents\Programas Sistemas Informacion\14.cuentabancaria\obj\Debug\netcoreapp3.1\14.cuentabancaria.dll
+C:\Users\Luism\Documents\Programas Sistemas Informacion\14.cuentabancaria\obj\Debug\netcoreapp3.1\14.cuentabancaria.pdb
