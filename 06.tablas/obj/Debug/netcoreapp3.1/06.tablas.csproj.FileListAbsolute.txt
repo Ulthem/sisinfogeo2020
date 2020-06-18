@@ -9,3 +9,5 @@ C:\Users\Luism\Documents\Programas Sistemas Informacion\06.tablas\obj\Debug\netc
 C:\Users\Luism\Documents\Programas Sistemas Informacion\06.tablas\obj\Debug\netcoreapp3.1\06.tablas.AssemblyInfo.cs
 C:\Users\Luism\Documents\Programas Sistemas Informacion\06.tablas\obj\Debug\netcoreapp3.1\06.tablas.dll
 C:\Users\Luism\Documents\Programas Sistemas Informacion\06.tablas\obj\Debug\netcoreapp3.1\06.tablas.pdb
+C:\Users\Luism\Documents\Programas Sistemas Informacion\06.tablas\obj\Debug\netcoreapp3.1\06.tablas.csproj.CoreCompileInputs.cache
+C:\Users\Luism\Documents\Programas Sistemas Informacion\06.tablas\obj\Debug\netcoreapp3.1\06.tablas.genruntimeconfig.cache

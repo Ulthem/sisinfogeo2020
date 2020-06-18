@@ -1,0 +1,13 @@
+C:\Users\Luism\Documents\Programas Sistemas Informacion\EP1\bin\Debug\netcoreapp3.1\EP1.exe
+C:\Users\Luism\Documents\Programas Sistemas Informacion\EP1\bin\Debug\netcoreapp3.1\EP1.deps.json
+C:\Users\Luism\Documents\Programas Sistemas Informacion\EP1\bin\Debug\netcoreapp3.1\EP1.runtimeconfig.json
+C:\Users\Luism\Documents\Programas Sistemas Informacion\EP1\bin\Debug\netcoreapp3.1\EP1.runtimeconfig.dev.json
+C:\Users\Luism\Documents\Programas Sistemas Informacion\EP1\bin\Debug\netcoreapp3.1\EP1.dll
+C:\Users\Luism\Documents\Programas Sistemas Informacion\EP1\bin\Debug\netcoreapp3.1\EP1.pdb
+C:\Users\Luism\Documents\Programas Sistemas Informacion\EP1\obj\Debug\netcoreapp3.1\EP1.csprojAssemblyReference.cache
+C:\Users\Luism\Documents\Programas Sistemas Informacion\EP1\obj\Debug\netcoreapp3.1\EP1.csproj.CoreCompileInputs.cache
+C:\Users\Luism\Documents\Programas Sistemas Informacion\EP1\obj\Debug\netcoreapp3.1\EP1.AssemblyInfoInputs.cache
+C:\Users\Luism\Documents\Programas Sistemas Informacion\EP1\obj\Debug\netcoreapp3.1\EP1.AssemblyInfo.cs
+C:\Users\Luism\Documents\Programas Sistemas Informacion\EP1\obj\Debug\netcoreapp3.1\EP1.dll
+C:\Users\Luism\Documents\Programas Sistemas Informacion\EP1\obj\Debug\netcoreapp3.1\EP1.pdb
+C:\Users\Luism\Documents\Programas Sistemas Informacion\EP1\obj\Debug\netcoreapp3.1\EP1.genruntimeconfig.cache
